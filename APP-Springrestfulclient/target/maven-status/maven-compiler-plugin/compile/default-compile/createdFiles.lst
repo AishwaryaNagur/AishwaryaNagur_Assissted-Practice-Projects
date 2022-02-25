@@ -1,0 +1,4 @@
+com\commerce\AppSpringrestfulclientApplication.class
+com\commerce\beans\Value.class
+com\commerce\controllers\MainController.class
+com\commerce\beans\Quote.class
